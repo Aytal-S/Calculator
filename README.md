@@ -1,6 +1,6 @@
-# 🧮 Mini Calculator – My First Android Project
+#  Mini Calculator – My First Android Project
 
-## 📌 About the Project
+##  About the Project
 Mini Calculator is my first Android application, developed using Kotlin. This project marks the beginning of my Android development journey and helped me understand the fundamentals of building Android applications.
 
 ##  Features
